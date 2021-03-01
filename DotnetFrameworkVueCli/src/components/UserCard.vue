@@ -11,6 +11,8 @@
                 {{user.website}}
             </p>
             <a href="#" class="btn btn-primary">View profile</a>
+            <Button type="button" label="Messages" icon="pi pi-users" class="p-button-warning" badge="8" badgeClass="p-badge-danger" />
+            <span>Meraj</span>
         </div>
     </div>
 </template>
